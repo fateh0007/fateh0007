@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm Fateh! 👋
 
-<!--
-**fateh0007/fateh0007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-stack Developer** | **MERN (MongoDB, Express, React, Node.js)** | **TypeScript Enthusiast**
 
-Here are some ideas to get you started:
+I’m passionate about building well-designed user interfaces, crafting scalable APIs, and optimizing for performance. Lifelong learner and problem-solver. Currently exploring **Thunder_AI**, **Brainly**, **Cure-Connect**, and **TaskHub**—my top pinned projects!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+##  About Me
+- 🔭 I’m working on **TaskHub**
+- 🌱 I’m currently learning **DevOps**
+- 💬 Ask me about **React**, **TypeScript**, **API design**
+- ⚡ Fun fact: **[insert a quick personal tidbit—e.g., coffee addict, occasional gamer, music fan, etc.]**
+
+---
+
+##  Featured Projects
+
+| Project         | Description                                    | Tech Stack      | Link                         |
+|----------------|------------------------------------------------|------------------|------------------------------|
+| **TaskHub**     | Project management platform                    | TypeScript, MERN | [[GitHub link]](https://github.com/fateh0007/TaskHub)                |
+| **Cure-Connect**| Doctors appointment booking website             | MERN             | [[GitHub link]](https://github.com/fateh0007/Cure-Connect-Appointment-app)                |
+| **Brainly**     | "Second brain" for storing notes & data         | TypeScript, MERN | [GitHub link]                |
+| **Thunder_AI**  | AI-driven project (details to add)             | JavaScript, MERN | [GitHub link]                |
+
+---
+
+##  Let's Connect
+- LinkedIn: [in/fateh-alam](https://www.linkedin.com/in/fateh-alam)
+- LeetCode: [Aizen_007](https://leetcode.com/u/Aizen_007/)
+- Email: `fatehalam123463@gmail.com` *(add email if you're comfortable sharing)*
+
+---
+
+*“Always learning.”* — A motto I live by.
