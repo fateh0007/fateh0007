@@ -10,7 +10,6 @@ I’m passionate about building well-designed user interfaces, crafting scalable
 - 🔭 I’m working on **TaskHub**
 - 🌱 I’m currently learning **DevOps**
 - 💬 Ask me about **React**, **TypeScript**, **API design**
-- ⚡ Fun fact: **[insert a quick personal tidbit—e.g., coffee addict, occasional gamer, music fan, etc.]**
 
 ---
 
