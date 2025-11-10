@@ -78,9 +78,9 @@ I’m passionate about building well-designed user interfaces, crafting scalable
 | Project         | Description                                    | Tech Stack      | Link                         |
 |----------------|------------------------------------------------|------------------|------------------------------|
 | **TaskHub**     | Project management platform                    | TypeScript, MERN | [[GitHub link]](https://github.com/fateh0007/TaskHub)                |
+| **ServAI**      | An all in one ai platform                       | JavaScript, MERN, Gemini Api | [[GitHub link]      ](https://github.com/fateh0007/Serv-Ai)          |
 | **Cure-Connect**| Doctors appointment booking website             | MERN             | [[GitHub link]](https://github.com/fateh0007/Cure-Connect-Appointment-app)                |
 | **Brainly**     | "Second brain" for storing notes & data         | TypeScript, MERN | [[GitHub link]    ](https://github.com/fateh0007/Brainly)            |
-| **ServAI**      | An all in one ai platform                       | JavaScript, MERN, Gemini Api | [[GitHub link]      ](https://github.com/fateh0007/Serv-Ai)          |
 
 ---
 
