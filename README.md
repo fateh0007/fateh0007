@@ -87,7 +87,7 @@ I’m passionate about building well-designed user interfaces, crafting scalable
 ##  Let's Connect
 - LinkedIn: [in/fateh-alam](https://www.linkedin.com/in/fateh-alam)
 - LeetCode: [Aizen_007](https://leetcode.com/u/Aizen_007/)
-- Email: `fatehalam123463@gmail.com` *(add email if you're comfortable sharing)*
+- Email: `fatehalam123463@gmail.com` 
 
 ---
 
