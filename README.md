@@ -2,7 +2,7 @@
 
 **Full-stack Developer** | **MERN (MongoDB, Express, React, Node.js)** | **TypeScript Enthusiast**
 
-I’m passionate about building well-designed user interfaces, crafting scalable APIs, and optimizing for performance. Lifelong learner and problem-solver. Currently exploring **ServAI**, **Brainly**, **Cure-Connect**, and **TaskHub**—my top pinned projects!
+I’m passionate about building well-designed user interfaces, crafting scalable APIs, and optimizing for performance. Lifelong learner and problem-solver. Currently exploring **Groot Version Control**, **Janhit**, **ServAI**, and **TaskHub**—my top pinned projects!
 
 ---
 
